@@ -1,0 +1,3 @@
+Channel_Secret = '1f606d8b0b925902663fed378d0b8d10'
+Channel_Access_Token = '9UwRYnrTQskyPOTIuEj0gv8d6YX8LPpKkh2JYOE1KqEDvHWXbXGJhFOHbBl+Ynuv5CUcBne57zh3QKNLBbHvEiYkSksux4jAGSuGwswbTSvKvBVQ88IznUuHBoBaheC56eclrcNUP7Fxw0jbHGCF/wdB04t89/1O/w1cDnyilFU='
+Basic_ID = '@780clayt'
